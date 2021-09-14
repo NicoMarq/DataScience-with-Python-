@@ -1,0 +1,18 @@
+Algoritmo Primer_problema
+	Definir cant_pais, cant_ciudad Como Entero
+	Definir porcentaje Como Real
+	
+	//Entrada:
+	Mostrar "Ingrese cantidad de afectados en el pais"
+	Leer cant_pais
+	
+	Mostrar "ingrese cantidad de afectado en la ciudad"
+	leer cant_ciudad
+	
+	//Proceso:
+	porcentaje <- (cant_ciudad / cant_pais)*100
+	
+	//Resultados: (Salida) 
+	Mostrar "El porcentaje de afectados es: ", porcentaje, "%"
+		
+FinAlgoritmo

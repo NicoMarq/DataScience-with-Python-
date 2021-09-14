@@ -1,0 +1,4 @@
+Algoritmo Ejercicio cuadrado 
+	
+	
+FinAlgoritmo

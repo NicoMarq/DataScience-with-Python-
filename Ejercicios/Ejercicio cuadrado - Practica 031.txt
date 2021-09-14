@@ -1,0 +1,9 @@
+Algoritmo Ejercicio_cuadrado
+	Definir peri, lado como Entero
+	Escribir "Ingrese el lado del cuadrado:"
+	Leer lado
+	// Proceso:
+	peri <- lado * 4
+	// Salida: 
+	Escribir "El perimetro del cuadrado es: ", peri
+FinAlgoritmo
